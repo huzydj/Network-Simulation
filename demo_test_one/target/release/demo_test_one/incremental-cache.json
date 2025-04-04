@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "demo_test_one": {
+      "rootPackageName": "demo_test_one",
+      "fileNameHash": "8723396280642795335",
+      "timeStamp": 1743768665,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "160334464851603908",
+  "rootPackageName": "demo_test_one"
+}
